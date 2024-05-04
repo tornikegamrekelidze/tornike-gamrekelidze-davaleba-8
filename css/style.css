@@ -1,0 +1,23 @@
+header {
+  margin: 24px 78px 18px 99px;
+}
+
+.geolab {
+  margin-right: 676px;
+  vertical-align: middle;
+}
+
+h1 {
+  display: inline-block;
+  margin-right: 50px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  vertical-align: middle;
+}
